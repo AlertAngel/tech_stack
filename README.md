@@ -11,6 +11,7 @@ The hardware planned on being used are as follows :
 4. MAX30102 Pulse Oximeter and Heart rate monitor
 5. DS18B20 temperature sensor module
 6. Pushbuttons
+7. Piezo Buzzers
 
 ## Software
 
