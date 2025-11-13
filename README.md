@@ -12,9 +12,18 @@ The hardware planned on being used are as follows :
 5. DS18B20 temperature sensor module
 6. Pushbuttons
 
+## Software
+
+These are the software that will be used, mainly to build the mobile application
+
+1. Kodular 
+2. MIT App Inventor
+
+Either of the above can be used. 
+
 ## Firmware
 
-For the Embedded firmware, Rust (`std`) seems to be a very good option due to it's architecture and inbuilt memory safety. 
+For the Embedded firmware, Rust (`std`) seems to be a very good option due to it's architecture and inbuilt memory safety.
 
 Due to the lack of a garbage collector, it prevents buffer overflows.
 
@@ -29,7 +38,7 @@ Due to the lack of a garbage collector, it prevents buffer overflows.
 
 ## Third Party `ratatui` crates
 
-These are some 3rd-part `ratatui` crates that can be used for better aesthetics
+These are some 3rd-party `ratatui` crates that can be used for better aesthetics
 
 1. `tui-big-text`
 2. `tui-popup`
