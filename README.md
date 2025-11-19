@@ -32,10 +32,11 @@ Due to the lack of a garbage collector, it prevents buffer overflows.
 
 1. `esp_idf_svc` : ESP-IDF framework for Rust (`std`)
 2. `hayasen` : Sensor Library (For MPU9250 and MAX30102) senors
-3. `onewire` : Library to read the temperature from a DS18B20 Temperature sensor
-4. `mousefood` : `embedded-graphics` backend for `ratatui`
-5. `ratatui` : Library for cooking up Terminal User Interfaces (TUI's)
-6. `mpipdsi` : Library for using the TFT screen.
+3. `one-wire-bus` : Library to set up the OneWire implementation.
+4. `ds18b20` : Library to use the DS18B20 Temperature sensor
+5. `mousefood` : `embedded-graphics` backend for `ratatui`
+7. `ratatui` : Library for cooking up Terminal User Interfaces (TUI's)
+9. `mpipdsi` : Library for using the TFT screen.
 
 ## Third Party `ratatui` crates
 
