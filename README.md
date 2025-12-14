@@ -5,12 +5,12 @@ The tech stacks planned on being used
 ## Hardware
 
 The hardware planned on being used are as follows : 
-1. ESP32 Microcontroller (ESP32-WROOM)
+1. Glyph C3 Board (ESP32-C3)
 2. 2.4" TFT display Monitor
 3. MPU9250 Inertial Measurement Unit
 4. MAX30102 Pulse Oximeter and Heart rate monitor
 5. DS18B20 temperature sensor module
-6. Pushbuttons
+6. Pushbuttons/Touch Sensors
 7. Piezo Buzzers
 
 ## Software
